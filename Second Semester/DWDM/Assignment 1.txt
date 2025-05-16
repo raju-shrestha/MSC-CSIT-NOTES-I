@@ -1,0 +1,10 @@
+1. What are the demerits of Apriori algorithm? 
+   How they can be removed?
+
+2. What do you understand by curse of dimensionality?
+   How to deal with it.
+
+3. If you are provided with the data sets age and salary,
+   how would you represent them in two dimesional space
+   and how would you calculate the distance among them.
+   Make necessary assumptions yourself.

@@ -1,0 +1,11 @@
+Choose your own data set 
+
+Write a program in python to implement following algorithms
+
+1. ID3 
+
+2. Naive Bayes Algorithm
+
+3. back propagation
+
+4. SVM

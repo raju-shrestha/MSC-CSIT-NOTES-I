@@ -1,0 +1,6 @@
+1. Implement Apriori algorithm in Weka
+
+2. Implement FP algorithm in Weka
+
+3. Implement ID3 algorithm in Weka
+
